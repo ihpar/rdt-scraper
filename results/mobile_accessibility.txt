@@ -1,0 +1,7 @@
+mean: 73.44
+best: 91
+worst: 41
+gt 90: 2 (6.89%)
+lt 50: 2 (6.89%)
+total sites: 29 
+unreacable: Konya Büyükşehir Belediyesi
