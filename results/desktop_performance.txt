@@ -1,0 +1,41 @@
+mean: 62.44
+best: 96
+worst: 24
+gt 90: 3 (11.11%)
+lt 50: 7 (25.92%)
+total sites: 27 
+
+unreacable: Konya Büyükşehir Belediyesi
+Malatya Büyükşehir Belediyesi
+Tekirdağ Büyükşehir Belediyesi
+
+Best: 96 Hatay Büyükşehir Belediyesi
+Worst: 24 Bursa Büyükşehir Belediyesi
+
+1 Hatay Büyükşehir Belediyesi 96.0
+2 Sakarya Büyükşehir Belediyesi 95.0
+3 Mersin Büyükşehir Belediyesi 90.0
+4 Ankara Büyükşehir Belediyesi 86.0
+5 Erzurum Büyükşehir Belediyesi 80.0
+6 Van Büyükşehir Belediyesi 78.0
+7 Eskişehir Büyükşehir Belediyesi 77.0
+8 İstanbul Büyükşehir Belediyesi 75.0
+9 İzmir Büyükşehir Belediyesi 74.0
+10 Mardin Büyükşehir Belediyesi 74.0
+11 Adana Büyükşehir Belediyesi 73.0
+12 Denizli Büyükşehir Belediyesi 66.0
+13 Manisa Büyükşehir Belediyesi 64.0
+14 Antalya Büyükşehir Belediyesi 63.0
+15 Şanlıurfa Büyükşehir Belediyesi 61.0
+16 Gaziantep Büyükşehir Belediyesi 59.0
+17 Kayseri Büyükşehir Belediyesi 59.0
+18 Kahramanmaraş Büyükşehir Belediyesi 56.99999999999999
+19 Diyarbakır Büyükşehir Belediyesi 54.0
+20 Aydın Büyükşehir Belediyesi 52.0
+21 Muğla Büyükşehir Belediyesi 47.0
+22 Balıkesir Büyükşehir Belediyesi 42.0
+23 Kocaeli Büyükşehir Belediyesi 41.0
+24 Samsun Büyükşehir Belediyesi 34.0
+25 Ordu Büyükşehir Belediyesi 33.0
+26 Trabzon Büyükşehir Belediyesi 32.0
+27 Bursa Büyükşehir Belediyesi 24.0
